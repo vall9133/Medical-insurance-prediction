@@ -118,8 +118,7 @@ git clone https://github.com/vall9133/medical-insurance-prediction.git
 cd medical-insurance-prediction
 
 2.Open the notebook:
-jupyter notebook Medical_Insurance_Prediction.ipynb
-
+jupyter notebook Project_ML.ipynb
 3.Run the notebook cells
 You will see:
 Data preprocessing steps
